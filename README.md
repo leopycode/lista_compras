@@ -1,6 +1,6 @@
 # Lista de Compras
 
-<img src = "janela.jpg">
+<img src = "janela.png">
 
 Programa de lista de compras, com interface gráfica amigável ao usurário, contruído em Python. Todo o código foi escrito e gerado aplicativo executável em Ubuntu Linux.
 
